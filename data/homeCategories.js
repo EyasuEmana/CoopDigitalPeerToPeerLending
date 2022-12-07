@@ -1,0 +1,1 @@
+export const categories=["Inbox","Approved","Rejected","Draft","Lenders","History","Templates","Help"]
